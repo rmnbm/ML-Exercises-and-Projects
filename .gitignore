@@ -28,6 +28,7 @@ human+activity+recognition+using+smartphones.zip
 *.zip
 
 projects/credit-card-fraud-detection/data/creditcard.csv
+exercises/data/*.csv
 exercises/UCI HAR Dataset/train/
 exercises/UCI HAR Dataset/test/
 exercises/UCI HAR Dataset/*.txt
