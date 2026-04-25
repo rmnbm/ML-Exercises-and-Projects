@@ -11,6 +11,10 @@ The notebook follows a full tabular regression workflow:
 - feature importance analysis,
 - final prediction export.
 
+## Main Files
+airbnb_price_prediction.ipynb
+requirements.txt
+
 ## Expected Local Data
 
 The original data CSV files are not included in the repository. To run the notebook locally, place the following files in `data/`:
